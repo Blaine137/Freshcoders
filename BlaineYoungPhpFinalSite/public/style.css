@@ -1,0 +1,121 @@
+/* 
+dark grey text-color: #646D85;
+background-dark: #7398FF;
+background-light: #BFD0FF;
+accents: #394C80;
+2nd accent: #99A7CC;
+*/
+
+/* Headings */
+header{
+    color: #BFD0FF;
+    background-color: #7398FF;
+    text-align: center;
+    font-size: 6em;
+}
+
+h1{
+    margin: 0;
+}
+
+h2{
+    color: #7398FF;
+    font-size: 2em;
+    text-align: center;
+    margin: 0;
+    padding: 1em;
+}
+
+/* navigation */
+
+nav{
+    font-size: 2em;
+    background-color: #7398FF;
+    padding: 1em;
+    text-align: center;
+}
+
+nav a{
+    padding: .2em;
+}
+
+/* Divs */
+
+.IP{
+    text-align: center;
+    padding-top: 2em;
+}
+
+.paragraph{
+    text-align: center;
+    width: 400px;
+}
+
+.UserBrowser{
+    text-align: center;
+    padding-top: 2em;
+}
+
+.blackFriday{
+  text-align: center;
+}
+
+.login{
+    text-align: center;
+    padding: 5px;
+}
+
+.logout{
+    text-align: center;
+}
+
+.about{
+    text-align: center;
+    
+}
+
+
+/* body/main */
+
+body{
+    margin: 0;
+}
+
+main{
+    background-color: #BFD0FF;
+    padding-bottom: 2em;
+}
+
+aside{
+    width: 30%;
+    float: right;
+}
+
+/* form */
+
+form{
+    text-align: center;
+    font-size: 2em;
+}
+
+
+/* images */
+
+.headerImage{
+    background-size: cover;
+    background-repeat: no-repeat;
+    min-height: 50vh;
+    
+    
+}
+
+
+/* footer */
+
+footer{
+    background-color: #7398FF;
+    text-align: center;
+}
+
+
+
